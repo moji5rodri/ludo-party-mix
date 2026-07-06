@@ -1,0 +1,13 @@
+{
+  "name": "ludo-party-mix",
+  "version": "0.1.0",
+  "description": "LUDO Party Mix - Ludo multijugador para hasta 10 personas, jugado por un grupo de amigos.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
